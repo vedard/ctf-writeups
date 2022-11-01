@@ -77,6 +77,11 @@ void admin(int random_value)
 
 Pour générer le mot de passe, l'exécutable appel une série de fonctions imbriquées afin de générer une valeur statique `44160`. Cette valeur est ensuite multipliée avec une valeur aléatoire.
 
+```c
+static_password = get_password(0xccccccc);
+random_password = static_password * random_value;
+```
+
 Localement, on peut se mettre un breakpoint à l'adresse `00101384` ou `<admin+105>` afin de voir le mot de passe dans le registre RAX.
 
 ```c
@@ -135,8 +140,20 @@ Cela fonctionne localement, mais sur le serveur il ne sera pas possible de débu
 
 Il ne semble pas avoir de vulnérabilités pouvant leaker la valeur aléatoire ou le mot de passe durant l'exécution du programme.
 
-Il y a 899 mots de passe différents, il pourrait être possible de lancer l'exécution à répétition avec un mot de passe identifié localement et éventuellement être chanceux, mais il existe une bien meilleure méthode.
+Il y a 899 mots de passe différents, il pourrait être possible de lancer l'exécution à répétition avec un mot de passe identifié localement et éventuellement être chanceux, mais il existe une meilleure méthode.
 
-Puisque la seed utilisée est la date et heure au tout début de l'exécution, on peut de se connecter au serveur en même temps que de lancer l'exécutable sur son poste avec GDB afin d'avoir exactement le même mot de passe.
+```c
+max = 999;
+min = 100;
+iVar1 = rand();
+rand_value = min + iVar1 % ((max - min) + 1);
+```
+
+Puisque la seed utilisée est la date et heure au tout début de l'exécution, on peut de se connecter au serveur en même temps que de lancer l'exécutable sur son poste afin d'avoir exactement le même mot de passe.
+
+```c
+seed = time((time_t *)0x0);
+srand((uint)seed);
+```
 
 Il suffit alors d'extraire le mot de passe du registre RAX localement et de le fournir au serveur afin d'obtenir le flag.
