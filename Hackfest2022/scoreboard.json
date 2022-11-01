@@ -1,0 +1,891 @@
+{
+  "success": true,
+  "data": {
+    "1": {
+      "id": 69,
+      "name": "Table 47",
+      "solves": [
+        {
+          "challenge_id": 14,
+          "account_id": 69,
+          "team_id": 69,
+          "user_id": 192,
+          "value": 175,
+          "date": "2022-10-29T20:10:37.864228Z"
+        },
+        {
+          "challenge_id": 18,
+          "account_id": 69,
+          "team_id": 69,
+          "user_id": 192,
+          "value": 75,
+          "date": "2022-10-29T20:17:01.049406Z"
+        },
+        {
+          "challenge_id": 1,
+          "account_id": 69,
+          "team_id": 69,
+          "user_id": 195,
+          "value": 75,
+          "date": "2022-10-29T20:25:49.270538Z"
+        },
+        {
+          "challenge_id": 40,
+          "account_id": 69,
+          "team_id": 69,
+          "user_id": 195,
+          "value": 200,
+          "date": "2022-10-29T20:39:20.025972Z"
+        },
+        {
+          "challenge_id": 2,
+          "account_id": 69,
+          "team_id": 69,
+          "user_id": 195,
+          "value": 150,
+          "date": "2022-10-29T20:54:48.789146Z"
+        },
+        {
+          "challenge_id": 7,
+          "account_id": 69,
+          "team_id": 69,
+          "user_id": 180,
+          "value": 100,
+          "date": "2022-10-29T21:29:13.590914Z"
+        },
+        {
+          "challenge_id": 15,
+          "account_id": 69,
+          "team_id": 69,
+          "user_id": 180,
+          "value": 30,
+          "date": "2022-10-29T21:53:00.532886Z"
+        },
+        {
+          "challenge_id": 33,
+          "account_id": 69,
+          "team_id": 69,
+          "user_id": 178,
+          "value": 50,
+          "date": "2022-10-29T21:59:44.399392Z"
+        },
+        {
+          "challenge_id": 42,
+          "account_id": 69,
+          "team_id": 69,
+          "user_id": 178,
+          "value": 125,
+          "date": "2022-10-29T22:07:30.147589Z"
+        },
+        {
+          "challenge_id": 16,
+          "account_id": 69,
+          "team_id": 69,
+          "user_id": 180,
+          "value": 100,
+          "date": "2022-10-29T23:29:47.620087Z"
+        },
+        {
+          "challenge_id": 3,
+          "account_id": 69,
+          "team_id": 69,
+          "user_id": 195,
+          "value": 150,
+          "date": "2022-10-29T23:32:44.472391Z"
+        },
+        {
+          "challenge_id": 4,
+          "account_id": 69,
+          "team_id": 69,
+          "user_id": 195,
+          "value": 200,
+          "date": "2022-10-29T23:39:47.418253Z"
+        },
+        {
+          "challenge_id": 24,
+          "account_id": 69,
+          "team_id": 69,
+          "user_id": 195,
+          "value": 75,
+          "date": "2022-10-30T00:41:28.948789Z"
+        },
+        {
+          "challenge_id": 49,
+          "account_id": 69,
+          "team_id": 69,
+          "user_id": 180,
+          "value": 100,
+          "date": "2022-10-30T00:43:22.449434Z"
+        },
+        {
+          "challenge_id": 19,
+          "account_id": 69,
+          "team_id": 69,
+          "user_id": 192,
+          "value": 150,
+          "date": "2022-10-30T01:28:47.619902Z"
+        },
+        {
+          "challenge_id": 20,
+          "account_id": 69,
+          "team_id": 69,
+          "user_id": 192,
+          "value": 150,
+          "date": "2022-10-30T03:11:27.710228Z"
+        },
+        {
+          "challenge_id": 22,
+          "account_id": 69,
+          "team_id": 69,
+          "user_id": 192,
+          "value": 75,
+          "date": "2022-10-30T03:47:22.580000Z"
+        },
+        {
+          "challenge_id": 26,
+          "account_id": 69,
+          "team_id": 69,
+          "user_id": 195,
+          "value": 200,
+          "date": "2022-10-30T03:48:24.056480Z"
+        },
+        {
+          "challenge_id": 32,
+          "account_id": 69,
+          "team_id": 69,
+          "user_id": 195,
+          "value": 75,
+          "date": "2022-10-30T04:39:38.992627Z"
+        },
+        {
+          "challenge_id": 21,
+          "account_id": 69,
+          "team_id": 69,
+          "user_id": 192,
+          "value": 125,
+          "date": "2022-10-30T04:54:12.600473Z"
+        },
+        {
+          "challenge_id": 43,
+          "account_id": 69,
+          "team_id": 69,
+          "user_id": 195,
+          "value": 125,
+          "date": "2022-10-30T05:05:08.687392Z"
+        },
+        {
+          "challenge_id": 45,
+          "account_id": 69,
+          "team_id": 69,
+          "user_id": 180,
+          "value": 175,
+          "date": "2022-10-30T06:08:35.968970Z"
+        },
+        {
+          "challenge_id": 46,
+          "account_id": 69,
+          "team_id": 69,
+          "user_id": 195,
+          "value": 200,
+          "date": "2022-10-30T06:43:53.758491Z"
+        },
+        {
+          "challenge_id": 23,
+          "account_id": 69,
+          "team_id": 69,
+          "user_id": 192,
+          "value": 150,
+          "date": "2022-10-30T07:06:41.739525Z"
+        }
+      ]
+    },
+    "2": {
+      "id": 43,
+      "name": "Blowfish",
+      "solves": [
+        {
+          "challenge_id": 7,
+          "account_id": 43,
+          "team_id": 43,
+          "user_id": 73,
+          "value": 100,
+          "date": "2022-10-29T19:45:56.763485Z"
+        },
+        {
+          "challenge_id": 1,
+          "account_id": 43,
+          "team_id": 43,
+          "user_id": 75,
+          "value": 75,
+          "date": "2022-10-29T19:58:55.008842Z"
+        },
+        {
+          "challenge_id": 2,
+          "account_id": 43,
+          "team_id": 43,
+          "user_id": 75,
+          "value": 150,
+          "date": "2022-10-29T20:02:01.569517Z"
+        },
+        {
+          "challenge_id": 18,
+          "account_id": 43,
+          "team_id": 43,
+          "user_id": 70,
+          "value": 75,
+          "date": "2022-10-29T20:30:30.464295Z"
+        },
+        {
+          "challenge_id": 42,
+          "account_id": 43,
+          "team_id": 43,
+          "user_id": 70,
+          "value": 125,
+          "date": "2022-10-29T21:07:23.780448Z"
+        },
+        {
+          "challenge_id": 9,
+          "account_id": 43,
+          "team_id": 43,
+          "user_id": 76,
+          "value": 175,
+          "date": "2022-10-29T23:35:56.514512Z"
+        },
+        {
+          "challenge_id": 33,
+          "account_id": 43,
+          "team_id": 43,
+          "user_id": 70,
+          "value": 50,
+          "date": "2022-10-29T23:51:21.774837Z"
+        },
+        {
+          "challenge_id": 43,
+          "account_id": 43,
+          "team_id": 43,
+          "user_id": 75,
+          "value": 125,
+          "date": "2022-10-30T00:05:50.948458Z"
+        },
+        {
+          "challenge_id": 45,
+          "account_id": 43,
+          "team_id": 43,
+          "user_id": 75,
+          "value": 175,
+          "date": "2022-10-30T00:17:51.723558Z"
+        },
+        {
+          "challenge_id": 14,
+          "account_id": 43,
+          "team_id": 43,
+          "user_id": 70,
+          "value": 175,
+          "date": "2022-10-30T01:07:02.580901Z"
+        },
+        {
+          "challenge_id": 10,
+          "account_id": 43,
+          "team_id": 43,
+          "user_id": 76,
+          "value": 250,
+          "date": "2022-10-30T02:04:10.827162Z"
+        },
+        {
+          "challenge_id": 40,
+          "account_id": 43,
+          "team_id": 43,
+          "user_id": 75,
+          "value": 200,
+          "date": "2022-10-30T03:03:48.614082Z"
+        },
+        {
+          "challenge_id": 48,
+          "account_id": 43,
+          "team_id": 43,
+          "user_id": 76,
+          "value": 50,
+          "date": "2022-10-30T03:12:23.256285Z"
+        },
+        {
+          "challenge_id": 49,
+          "account_id": 43,
+          "team_id": 43,
+          "user_id": 75,
+          "value": 100,
+          "date": "2022-10-30T04:15:01.549230Z"
+        },
+        {
+          "challenge_id": 24,
+          "account_id": 43,
+          "team_id": 43,
+          "user_id": 70,
+          "value": 75,
+          "date": "2022-10-30T04:45:22.301925Z"
+        },
+        {
+          "challenge_id": 15,
+          "account_id": 43,
+          "team_id": 43,
+          "user_id": 70,
+          "value": 30,
+          "date": "2022-10-30T04:51:09.677068Z"
+        },
+        {
+          "challenge_id": 25,
+          "account_id": 43,
+          "team_id": 43,
+          "user_id": 76,
+          "value": 200,
+          "date": "2022-10-30T05:45:14.654568Z"
+        },
+        {
+          "challenge_id": 27,
+          "account_id": 43,
+          "team_id": 43,
+          "user_id": 73,
+          "value": 300,
+          "date": "2022-10-30T06:09:14.057424Z"
+        },
+        {
+          "challenge_id": 32,
+          "account_id": 43,
+          "team_id": 43,
+          "user_id": 73,
+          "value": 75,
+          "date": "2022-10-30T06:31:42.841955Z"
+        },
+        {
+          "challenge_id": 46,
+          "account_id": 43,
+          "team_id": 43,
+          "user_id": 75,
+          "value": 200,
+          "date": "2022-10-30T06:37:13.279589Z"
+        },
+        {
+          "challenge_id": 47,
+          "account_id": 43,
+          "team_id": 43,
+          "user_id": 70,
+          "value": 150,
+          "date": "2022-10-30T06:48:54.971261Z"
+        },
+        {
+          "challenge_id": null,
+          "account_id": 43,
+          "team_id": 43,
+          "user_id": 70,
+          "value": -5,
+          "date": "2022-10-30T07:01:25.343258Z"
+        }
+      ]
+    },
+    "3": {
+      "id": 50,
+      "name": "TheNarwhals",
+      "solves": [
+        {
+          "challenge_id": 33,
+          "account_id": 50,
+          "team_id": 50,
+          "user_id": 100,
+          "value": 50,
+          "date": "2022-10-29T19:36:32.405789Z"
+        },
+        {
+          "challenge_id": 32,
+          "account_id": 50,
+          "team_id": 50,
+          "user_id": 100,
+          "value": 75,
+          "date": "2022-10-29T19:52:57.693012Z"
+        },
+        {
+          "challenge_id": 15,
+          "account_id": 50,
+          "team_id": 50,
+          "user_id": 121,
+          "value": 30,
+          "date": "2022-10-29T19:56:17.475672Z"
+        },
+        {
+          "challenge_id": 7,
+          "account_id": 50,
+          "team_id": 50,
+          "user_id": 100,
+          "value": 100,
+          "date": "2022-10-29T20:40:01.527332Z"
+        },
+        {
+          "challenge_id": 42,
+          "account_id": 50,
+          "team_id": 50,
+          "user_id": 100,
+          "value": 125,
+          "date": "2022-10-29T21:00:05.032622Z"
+        },
+        {
+          "challenge_id": 16,
+          "account_id": 50,
+          "team_id": 50,
+          "user_id": 104,
+          "value": 100,
+          "date": "2022-10-29T21:15:43.810700Z"
+        },
+        {
+          "challenge_id": 43,
+          "account_id": 50,
+          "team_id": 50,
+          "user_id": 104,
+          "value": 125,
+          "date": "2022-10-29T21:58:13.634165Z"
+        },
+        {
+          "challenge_id": 18,
+          "account_id": 50,
+          "team_id": 50,
+          "user_id": 100,
+          "value": 75,
+          "date": "2022-10-29T23:11:32.026773Z"
+        },
+        {
+          "challenge_id": 3,
+          "account_id": 50,
+          "team_id": 50,
+          "user_id": 104,
+          "value": 150,
+          "date": "2022-10-29T23:55:38.969430Z"
+        },
+        {
+          "challenge_id": 1,
+          "account_id": 50,
+          "team_id": 50,
+          "user_id": 100,
+          "value": 75,
+          "date": "2022-10-30T00:56:01.419449Z"
+        },
+        {
+          "challenge_id": 4,
+          "account_id": 50,
+          "team_id": 50,
+          "user_id": 104,
+          "value": 200,
+          "date": "2022-10-30T01:01:55.138859Z"
+        },
+        {
+          "challenge_id": 2,
+          "account_id": 50,
+          "team_id": 50,
+          "user_id": 100,
+          "value": 150,
+          "date": "2022-10-30T01:06:50.424567Z"
+        },
+        {
+          "challenge_id": 45,
+          "account_id": 50,
+          "team_id": 50,
+          "user_id": 104,
+          "value": 175,
+          "date": "2022-10-30T01:09:42.726614Z"
+        },
+        {
+          "challenge_id": 48,
+          "account_id": 50,
+          "team_id": 50,
+          "user_id": 104,
+          "value": 50,
+          "date": "2022-10-30T01:15:24.968959Z"
+        },
+        {
+          "challenge_id": 46,
+          "account_id": 50,
+          "team_id": 50,
+          "user_id": 104,
+          "value": 200,
+          "date": "2022-10-30T01:48:57.173606Z"
+        },
+        {
+          "challenge_id": 39,
+          "account_id": 50,
+          "team_id": 50,
+          "user_id": 104,
+          "value": 175,
+          "date": "2022-10-30T02:37:44.506913Z"
+        },
+        {
+          "challenge_id": 14,
+          "account_id": 50,
+          "team_id": 50,
+          "user_id": 104,
+          "value": 175,
+          "date": "2022-10-30T03:47:00.293056Z"
+        },
+        {
+          "challenge_id": 40,
+          "account_id": 50,
+          "team_id": 50,
+          "user_id": 104,
+          "value": 200,
+          "date": "2022-10-30T04:42:27.062301Z"
+        },
+        {
+          "challenge_id": 49,
+          "account_id": 50,
+          "team_id": 50,
+          "user_id": 121,
+          "value": 100,
+          "date": "2022-10-30T05:17:55.885151Z"
+        },
+        {
+          "challenge_id": 9,
+          "account_id": 50,
+          "team_id": 50,
+          "user_id": 106,
+          "value": 175,
+          "date": "2022-10-30T05:55:27.968700Z"
+        },
+        {
+          "challenge_id": 24,
+          "account_id": 50,
+          "team_id": 50,
+          "user_id": 104,
+          "value": 75,
+          "date": "2022-10-30T06:02:45.788999Z"
+        },
+        {
+          "challenge_id": 47,
+          "account_id": 50,
+          "team_id": 50,
+          "user_id": 104,
+          "value": 150,
+          "date": "2022-10-30T07:13:04.509671Z"
+        }
+      ]
+    },
+    "4": {
+      "id": 45,
+      "name": "BroSec",
+      "solves": [
+        {
+          "challenge_id": 1,
+          "account_id": 45,
+          "team_id": 45,
+          "user_id": 82,
+          "value": 75,
+          "date": "2022-10-29T19:57:46.275574Z"
+        },
+        {
+          "challenge_id": 2,
+          "account_id": 45,
+          "team_id": 45,
+          "user_id": 82,
+          "value": 150,
+          "date": "2022-10-29T20:02:22.046584Z"
+        },
+        {
+          "challenge_id": 14,
+          "account_id": 45,
+          "team_id": 45,
+          "user_id": 83,
+          "value": 175,
+          "date": "2022-10-29T20:26:09.389812Z"
+        },
+        {
+          "challenge_id": 18,
+          "account_id": 45,
+          "team_id": 45,
+          "user_id": 92,
+          "value": 75,
+          "date": "2022-10-29T21:20:56.514921Z"
+        },
+        {
+          "challenge_id": 7,
+          "account_id": 45,
+          "team_id": 45,
+          "user_id": 83,
+          "value": 100,
+          "date": "2022-10-29T21:39:23.913436Z"
+        },
+        {
+          "challenge_id": 40,
+          "account_id": 45,
+          "team_id": 45,
+          "user_id": 82,
+          "value": 200,
+          "date": "2022-10-29T22:36:38.118044Z"
+        },
+        {
+          "challenge_id": 43,
+          "account_id": 45,
+          "team_id": 45,
+          "user_id": 85,
+          "value": 125,
+          "date": "2022-10-29T23:34:52.470011Z"
+        },
+        {
+          "challenge_id": 42,
+          "account_id": 45,
+          "team_id": 45,
+          "user_id": 85,
+          "value": 125,
+          "date": "2022-10-29T23:38:55.284722Z"
+        },
+        {
+          "challenge_id": 22,
+          "account_id": 45,
+          "team_id": 45,
+          "user_id": 92,
+          "value": 75,
+          "date": "2022-10-29T23:53:32.014939Z"
+        },
+        {
+          "challenge_id": 45,
+          "account_id": 45,
+          "team_id": 45,
+          "user_id": 85,
+          "value": 175,
+          "date": "2022-10-29T23:59:52.751082Z"
+        },
+        {
+          "challenge_id": 9,
+          "account_id": 45,
+          "team_id": 45,
+          "user_id": 83,
+          "value": 175,
+          "date": "2022-10-30T01:37:56.941068Z"
+        },
+        {
+          "challenge_id": 46,
+          "account_id": 45,
+          "team_id": 45,
+          "user_id": 85,
+          "value": 200,
+          "date": "2022-10-30T02:55:58.252787Z"
+        },
+        {
+          "challenge_id": 3,
+          "account_id": 45,
+          "team_id": 45,
+          "user_id": 82,
+          "value": 150,
+          "date": "2022-10-30T03:18:08.973827Z"
+        },
+        {
+          "challenge_id": 4,
+          "account_id": 45,
+          "team_id": 45,
+          "user_id": 82,
+          "value": 200,
+          "date": "2022-10-30T04:13:12.788244Z"
+        },
+        {
+          "challenge_id": 24,
+          "account_id": 45,
+          "team_id": 45,
+          "user_id": 82,
+          "value": 75,
+          "date": "2022-10-30T04:48:07.358864Z"
+        },
+        {
+          "challenge_id": 15,
+          "account_id": 45,
+          "team_id": 45,
+          "user_id": 83,
+          "value": 30,
+          "date": "2022-10-30T06:11:42.952163Z"
+        },
+        {
+          "challenge_id": 19,
+          "account_id": 45,
+          "team_id": 45,
+          "user_id": 92,
+          "value": 150,
+          "date": "2022-10-30T06:12:44.130338Z"
+        },
+        {
+          "challenge_id": 30,
+          "account_id": 45,
+          "team_id": 45,
+          "user_id": 85,
+          "value": 250,
+          "date": "2022-10-30T06:49:06.545919Z"
+        },
+        {
+          "challenge_id": 32,
+          "account_id": 45,
+          "team_id": 45,
+          "user_id": 85,
+          "value": 75,
+          "date": "2022-10-30T07:10:32.290795Z"
+        },
+        {
+          "challenge_id": 33,
+          "account_id": 45,
+          "team_id": 45,
+          "user_id": 85,
+          "value": 50,
+          "date": "2022-10-30T07:15:59.871773Z"
+        }
+      ]
+    },
+    "5": {
+      "id": 81,
+      "name": "Unicorne",
+      "solves": [
+        {
+          "challenge_id": 15,
+          "account_id": 81,
+          "team_id": 81,
+          "user_id": 217,
+          "value": 30,
+          "date": "2022-10-29T20:31:18.162580Z"
+        },
+        {
+          "challenge_id": 16,
+          "account_id": 81,
+          "team_id": 81,
+          "user_id": 217,
+          "value": 100,
+          "date": "2022-10-29T22:36:29.591750Z"
+        },
+        {
+          "challenge_id": 18,
+          "account_id": 81,
+          "team_id": 81,
+          "user_id": 212,
+          "value": 75,
+          "date": "2022-10-29T23:52:43.590908Z"
+        },
+        {
+          "challenge_id": 42,
+          "account_id": 81,
+          "team_id": 81,
+          "user_id": 217,
+          "value": 125,
+          "date": "2022-10-30T00:23:34.264038Z"
+        },
+        {
+          "challenge_id": 24,
+          "account_id": 81,
+          "team_id": 81,
+          "user_id": 214,
+          "value": 75,
+          "date": "2022-10-30T00:54:21.457447Z"
+        },
+        {
+          "challenge_id": 43,
+          "account_id": 81,
+          "team_id": 81,
+          "user_id": 217,
+          "value": 125,
+          "date": "2022-10-30T00:55:42.403966Z"
+        },
+        {
+          "challenge_id": 45,
+          "account_id": 81,
+          "team_id": 81,
+          "user_id": 217,
+          "value": 175,
+          "date": "2022-10-30T01:10:48.876962Z"
+        },
+        {
+          "challenge_id": 46,
+          "account_id": 81,
+          "team_id": 81,
+          "user_id": 217,
+          "value": 200,
+          "date": "2022-10-30T01:38:43.546518Z"
+        },
+        {
+          "challenge_id": 26,
+          "account_id": 81,
+          "team_id": 81,
+          "user_id": 214,
+          "value": 200,
+          "date": "2022-10-30T02:07:11.725451Z"
+        },
+        {
+          "challenge_id": 47,
+          "account_id": 81,
+          "team_id": 81,
+          "user_id": 217,
+          "value": 150,
+          "date": "2022-10-30T02:34:59.235590Z"
+        },
+        {
+          "challenge_id": 25,
+          "account_id": 81,
+          "team_id": 81,
+          "user_id": 214,
+          "value": 200,
+          "date": "2022-10-30T04:06:10.852650Z"
+        },
+        {
+          "challenge_id": 27,
+          "account_id": 81,
+          "team_id": 81,
+          "user_id": 214,
+          "value": 300,
+          "date": "2022-10-30T04:41:18.720084Z"
+        },
+        {
+          "challenge_id": 19,
+          "account_id": 81,
+          "team_id": 81,
+          "user_id": 213,
+          "value": 150,
+          "date": "2022-10-30T04:52:25.640436Z"
+        },
+        {
+          "challenge_id": 20,
+          "account_id": 81,
+          "team_id": 81,
+          "user_id": 213,
+          "value": 150,
+          "date": "2022-10-30T04:55:48.543234Z"
+        },
+        {
+          "challenge_id": 1,
+          "account_id": 81,
+          "team_id": 81,
+          "user_id": 217,
+          "value": 75,
+          "date": "2022-10-30T05:10:43.878870Z"
+        },
+        {
+          "challenge_id": 2,
+          "account_id": 81,
+          "team_id": 81,
+          "user_id": 217,
+          "value": 150,
+          "date": "2022-10-30T05:13:29.485387Z"
+        },
+        {
+          "challenge_id": 49,
+          "account_id": 81,
+          "team_id": 81,
+          "user_id": 214,
+          "value": 100,
+          "date": "2022-10-30T06:00:42.543351Z"
+        },
+        {
+          "challenge_id": 33,
+          "account_id": 81,
+          "team_id": 81,
+          "user_id": 213,
+          "value": 50,
+          "date": "2022-10-30T06:25:46.607999Z"
+        },
+        {
+          "challenge_id": 32,
+          "account_id": 81,
+          "team_id": 81,
+          "user_id": 217,
+          "value": 75,
+          "date": "2022-10-30T06:49:54.865557Z"
+        }
+      ]
+    }
+  }
+}

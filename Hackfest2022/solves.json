@@ -1,0 +1,161 @@
+{
+  "success": true,
+  "data": [
+    {
+      "date": "2022-10-29T21:15:43.810700+00:00",
+      "type": "correct",
+      "challenge_id": 16,
+      "challenge": {
+        "name": "02 - Find the payload",
+        "category": "Worst ransomware gang (By @dystopie)",
+        "value": 100
+      },
+      "user": 104,
+      "team": 50,
+      "id": 936
+    },
+    {
+      "date": "2022-10-29T21:58:13.634165+00:00",
+      "type": "correct",
+      "challenge_id": 43,
+      "challenge": {
+        "name": "02 - Flickering Light Bulb 💡 2/4",
+        "category": "Internet of Torments 2.0 (@Miu.)",
+        "value": 125
+      },
+      "user": 104,
+      "team": 50,
+      "id": 1339
+    },
+    {
+      "date": "2022-10-29T23:55:38.969430+00:00",
+      "type": "correct",
+      "challenge_id": 3,
+      "challenge": {
+        "name": "03 - The Hidden Function",
+        "category": "HF Doom (by @MaxWhite)",
+        "value": 150
+      },
+      "user": 104,
+      "team": 50,
+      "id": 2040
+    },
+    {
+      "date": "2022-10-30T01:01:55.138859+00:00",
+      "type": "correct",
+      "challenge_id": 4,
+      "challenge": {
+        "name": "04 - The Other Hidden Function",
+        "category": "HF Doom (by @MaxWhite)",
+        "value": 200
+      },
+      "user": 104,
+      "team": 50,
+      "id": 2423
+    },
+    {
+      "date": "2022-10-30T01:09:42.726614+00:00",
+      "type": "correct",
+      "challenge_id": 45,
+      "challenge": {
+        "name": "03 - Flickering Light Bulb 💡 3/4",
+        "category": "Internet of Torments 2.0 (@Miu.)",
+        "value": 175
+      },
+      "user": 104,
+      "team": 50,
+      "id": 2458
+    },
+    {
+      "date": "2022-10-30T01:15:24.968959+00:00",
+      "type": "correct",
+      "challenge_id": 48,
+      "challenge": {
+        "name": "06 - Cuteness Overload ✨",
+        "category": "Tricks & Treats 🍬 (@Miu.)",
+        "value": 50
+      },
+      "user": 104,
+      "team": 50,
+      "id": 2469
+    },
+    {
+      "date": "2022-10-30T01:48:57.173606+00:00",
+      "type": "correct",
+      "challenge_id": 46,
+      "challenge": {
+        "name": "04 - Flickering Light Bulb 💡 4/4",
+        "category": "Internet of Torments 2.0 (@Miu.)",
+        "value": 200
+      },
+      "user": 104,
+      "team": 50,
+      "id": 2609
+    },
+    {
+      "date": "2022-10-30T02:37:44.506913+00:00",
+      "type": "correct",
+      "challenge_id": 39,
+      "challenge": {
+        "name": "01 - CrunchAsAService",
+        "category": "CrunchyCiphers (by @muemmelmoehre)",
+        "value": 175
+      },
+      "user": 104,
+      "team": 50,
+      "id": 2904
+    },
+    {
+      "date": "2022-10-30T03:47:00.293056+00:00",
+      "type": "correct",
+      "challenge_id": 14,
+      "challenge": {
+        "name": "01 - Undercover",
+        "category": "File Type Detective 2.0 (@dax)",
+        "value": 175
+      },
+      "user": 104,
+      "team": 50,
+      "id": 3302
+    },
+    {
+      "date": "2022-10-30T04:42:27.062301+00:00",
+      "type": "correct",
+      "challenge_id": 40,
+      "challenge": {
+        "name": "1- Just a bit of reverse and coding (by @salt)",
+        "category": "reverse",
+        "value": 200
+      },
+      "user": 104,
+      "team": 50,
+      "id": 3567
+    },
+    {
+      "date": "2022-10-30T06:02:45.788999+00:00",
+      "type": "correct",
+      "challenge_id": 24,
+      "challenge": {
+        "name": "0001 - Oh oh !",
+        "category": "secure'nt - Security at its best (@Brainmoustache)",
+        "value": 75
+      },
+      "user": 104,
+      "team": 50,
+      "id": 3882
+    },
+    {
+      "date": "2022-10-30T07:13:04.509671+00:00",
+      "type": "correct",
+      "challenge_id": 47,
+      "challenge": {
+        "name": "05 - Unsettling Message 🎃",
+        "category": "Tricks & Treats 🍬 (@Miu.)",
+        "value": 150
+      },
+      "user": 104,
+      "team": 50,
+      "id": 4155
+    }
+  ]
+}
