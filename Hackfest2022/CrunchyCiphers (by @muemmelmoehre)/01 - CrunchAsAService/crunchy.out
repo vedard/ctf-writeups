@@ -1,0 +1,62 @@
+---------------------------------------------------------------------------------------------
+
+	  ___                       _     _  _         ___  _  _ __  _                  
+	 / __| _ _  _  _  _ _   __ | |_  | || |       / __|(_)| '_ \| |_   ___  _ _  ___
+	| (__ | '_|| || || ' \ / _||   \  \_. |      | (__ | || .__/|   \ / -_)| '_|(_-/
+	 \___||_|   \_._||_||_|\__||_||_| |__/        \___||_||_|   |_||_|\___||_|  /__/
+	
+---------------------------------------------------------------------------------------------
+Welcome to Crunchy Ciphers! I assume you are here for the flag. (y/n)
+y
+
+[*] Making your flag extra crunchy...
+
+[*] Encrypting your flag...
+
+[+] Here's your encrypted flag:
+HycukjBYbDz3OVNbozbSY5XVCOH1puUWd+BD5iMcGhhXuniyclzuF2kYvjLGWpQgNKO6a6dZEDEU8NiZj+krbcGvI1zFmNfAgb8zAeY8RI5upSoBPyVqGAEL5G7PREab+iy0oCkUBOe2ul2sPJ3B+gx2j8QKMpHQ1vY7ieXsqymv7w0+00s59ZVQKoxb+pFR5/7VJK0LG3pY5UoKUAJKIc9UowCKRYC+lb2W2ns5NT5DN9Jq4YWC52ouZT1GOHVqSU5f9qZdAqoVG7vRV7dWbxwc9IY5zpzTvVDytqqGRT7V1sE+T0X1HD58OvgBSUTkXdDqaqWrY4Tf1QMrFEsTVw==
+
+Would you like some keys with your flag? (y/n)
+y
+
+[*] Private key coming right up!
+-----BEGIN RSA PRIVATE KEY-----
+MIIEqQIBAAKCAQEAoDjQxbABCgWr3avBKcH3zM3zwDV4eqav3CARZmUwyP+u9BnI
+TJ0udWb5EB++ahH/iDAp9XDP7DoT+bJZuoqZtwibDSLTXY5gFrNcnQfzVCG+gPqv
+P59nGunrV7izjxYfQZ7XadFMPqKY8pv7hpiQKEcEx0SEGXeMrkmhpSups93shPIG
+s9vuBIeQeEGEFzoyqleYVvuFR9H81hkLNwKehYXe8yY0SOJs6uHWSqzQQSrHsmhT
+pxIqa4XADEKKP10j7HPWbzigZYq3dM5JyGjY+qHAFFsEasBD/TEAXfGbKyu/LzrM
+S18Pvbw8r7boxt7gqhY54by8LBquRlKcWjYIAQIDAQABAoIBAQCGeAin0ZadrbLX
+oV3FyRhLGBLaH0ZVUe5IhdV0pbqzBvvzvGvB+S1TtS+VW7740NAwoZOlfZ/Tt86q
+AwiRqd9moV9YQAE7BNIaW0CAPnr3AjcbkslgUU08ZlRxU//HOB7VeRV7pwAhlV9e
+RpFsHkDmvOwCvbtMkGuuPMfxVXegfXK7t8wfWYirJ6HSBeTotyyGMZ20aQzXhd9N
+SNvc7OnIBdkAqa+WkRjRAjgW5q1YiczkhL5BT25Ou2S2Wyync6yCn7ClscungC9P
+puxLfpUCSHRUtVwD1n0qsOxiI0Fob1cjqPXBI2YGLEvPRHEuhYZ5j3kLflUb1R65
+C5KjlMQRAoGJAL8YxkTvv5ZYKJUJmKRQu9e056dVxMTxkxxo963AV6zfvjW3m2r7
+94K56kFqg1r7yhLN4SeatFttfeBkmC0iAR/OXrQ8p/nty0vBj9f0OM3DHvm2M+cu
+wMfozyJtDf0SJk9OzupIEHgaye8IqcE00CrIM7dClEsTzFHXckrukj4V3nrNty/g
+zg0CeQDWo5O0TkU/Iv6bc4J4q2KDqgTVXEcjP+2Plu0xdR7XnpzhPnNqCWVGj14y
+6ffBIHc/0snozJV/HXhk2bAfq962Ogg02picerAvnjzN+GVy8ibGElQJvSKDsWQl
+JvTHuby6i5mTVIVeV125PGOBBB9HXF9Y7EMvWMUCgYhLo+3PGasXQpwFqj++Qqqn
+zlanmL6DSi/13eKz5t+NcR7kOmINbeDh4N9Ft3h5ChNJcC7AM29ShTt/F7JYow4Y
+3eIEq8G9nw+KU/qw+12ErMhVBXbz+kCaoJ9kvA/+bTG20LX8bDwAnnHx6NbwwAvp
+80btMjBqq1KDzqjR2i8O3i8rIsRw8iX9AnhwIdkCc3mduGyHTds1q2O2IVaRGLpZ
+YgZ7439bPTK1trmCuxuUo//y0ueFddHnZUynXTn6kxbu57iEB24JvcKGNN8grarY
+5QeyeNqPSFvHp1Y2WFDrHZIwdrY46pcq2JAObOv4mklqtf3Szge12S92Gn39eMDI
+tXkCgYg12STsKODTdvg8S3BfFgcz7xJbx1W0mhSPgLSHLKje3P/b4XZFUtCI7ri6
+iexBKaVf+lDXToxLcau09p7tGNEapZtAmhLflSOfuNpRUk6/Pu4byAwybnExNitr
+0QA6Skj6QKiRVr66Gf0prb00tcEBkXc8oKoTUvLw3aTNCfTf9rzeliExZHcU
+-----END RSA PRIVATE KEY-----
+
+[*] Public key coming right up!
+-----BEGIN RSA PUBLIC KEY-----
+MIIBCgKCAQEAoDjQxbABCgWr3avBKcH3zM3zwDV4eqav3CARZmUwyP+u9BnITJ0u
+dWb5EB++ahH/iDAp9XDP7DoT+bJZuoqZtwibDSLTXY5gFrNcnQfzVCG+gPqvP59n
+GunrV7izjxYfQZ7XadFMPqKY8pv7hpiQKEcEx0SEGXeMrkmhpSups93shPIGs9vu
+BIeQeEGEFzoyqleYVvuFR9H81hkLNwKehYXe8yY0SOJs6uHWSqzQQSrHsmhTpxIq
+a4XADEKKP10j7HPWbzigZYq3dM5JyGjY+qHAFFsEasBD/TEAXfGbKyu/LzrMS18P
+vbw8r7boxt7gqhY54by8LBquRlKcWjYIAQIDAQAB
+-----END RSA PUBLIC KEY-----
+
+
+[+] Enjoy! Come again! :)
