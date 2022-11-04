@@ -1,4 +1,5 @@
 # 01 - CrunchAsAService
+
 Le challenge consiste à décrypter et à décoder un flag qui nous est fourni dans le fichier suivant:
 
 ```
@@ -83,7 +84,7 @@ En examinant les lettres que nous avons remplacées, on peut voir un certain pat
 | Caractères encodés | Caractères décodés |
 |-|-|
 | `ord('¦') => 166` | `ord('S') => 83` |
-| `ord('8') => 56`| `ord('p') => 112`| 
+| `ord('8') => 56` | `ord('p') => 112` |
 | `ord('ä') => 228` | `ord('r') => 114` |
 
 La valeur de chaque caractère est simplement doublé ou divisé par deux.

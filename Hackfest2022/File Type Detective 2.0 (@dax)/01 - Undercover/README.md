@@ -18,8 +18,7 @@ En recherchant la chaine `== ed25519v1-public: type0 ==`, nous sommes arrivé su
 
 https://github.com/cmehay/pytor/blob/master/pytor/onion.py#L221
 
-On constate que l'en tête du fichier `== ed25519v1-public: type0 ==` signifie que c'est une clef publique probablement utilisée pour générer une adresse Onion. 
-
+On constate que l'en tête du fichier `== ed25519v1-public: type0 ==` signifie que c'est une clef publique probablement utilisée pour générer une adresse Onion.
 
 Le script suivant se base sur les [specs](https://github.com/torproject/torspec/blob/main/rend-spec-v3.txt#L2161) afin de générer l'adresse Onion. La variable `PUBKEY` contient les bytes retrouvés dans le fichier `unknown` après l'en tête et les trois bytes null (`\x00`)
 
