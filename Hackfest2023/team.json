@@ -1,0 +1,24 @@
+{
+    "success": true,
+    "data": {
+        "country": null,
+        "affiliation": null,
+        "captain_id": 122,
+        "email": null,
+        "bracket": null,
+        "id": 64,
+        "oauth_id": null,
+        "fields": [],
+        "members": [
+            106,
+            122,
+            126,
+            112,
+            136
+        ],
+        "website": null,
+        "name": "The Narwhals",
+        "place": "7th",
+        "score": 2500
+    }
+}

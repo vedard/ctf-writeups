@@ -1,0 +1,1707 @@
+{
+	"success": true,
+	"data": [
+		{
+			"pos": 1,
+			"account_id": 45,
+			"account_url": "/teams/45",
+			"account_type": "team",
+			"oauth_id": null,
+			"name": "Blowfish (Coveo)",
+			"score": 5580,
+			"members": [
+				{
+					"id": 55,
+					"oauth_id": null,
+					"name": "cj_1337",
+					"score": 1675
+				},
+				{
+					"id": 120,
+					"oauth_id": null,
+					"name": "fiset",
+					"score": 450
+				},
+				{
+					"id": 124,
+					"oauth_id": null,
+					"name": "dark_enteris",
+					"score": 1900
+				},
+				{
+					"id": 150,
+					"oauth_id": null,
+					"name": ".renomz",
+					"score": 275
+				},
+				{
+					"id": 154,
+					"oauth_id": null,
+					"name": "tedre191",
+					"score": 280
+				},
+				{
+					"id": 161,
+					"oauth_id": null,
+					"name": "etienned",
+					"score": 1000
+				}
+			]
+		},
+		{
+			"pos": 2,
+			"account_id": 62,
+			"account_url": "/teams/62",
+			"account_type": "team",
+			"oauth_id": null,
+			"name": "Table 47",
+			"score": 4905,
+			"members": [
+				{
+					"id": 119,
+					"oauth_id": null,
+					"name": "sideni",
+					"score": 650
+				},
+				{
+					"id": 129,
+					"oauth_id": null,
+					"name": "klammydia",
+					"score": 0
+				},
+				{
+					"id": 131,
+					"oauth_id": null,
+					"name": "_niclovin",
+					"score": 1275
+				},
+				{
+					"id": 140,
+					"oauth_id": null,
+					"name": "hellnia",
+					"score": 830
+				},
+				{
+					"id": 143,
+					"oauth_id": null,
+					"name": "marcan2020",
+					"score": 700
+				},
+				{
+					"id": 174,
+					"oauth_id": null,
+					"name": "fobqc",
+					"score": 1450
+				}
+			]
+		},
+		{
+			"pos": 3,
+			"account_id": 71,
+			"account_url": "/teams/71",
+			"account_type": "team",
+			"oauth_id": null,
+			"name": "kazUL",
+			"score": 4100,
+			"members": [
+				{
+					"id": 176,
+					"oauth_id": null,
+					"name": "xehos",
+					"score": 1700
+				},
+				{
+					"id": 183,
+					"oauth_id": null,
+					"name": "corb3nik",
+					"score": 725
+				},
+				{
+					"id": 213,
+					"oauth_id": null,
+					"name": "floufl",
+					"score": 775
+				},
+				{
+					"id": 212,
+					"oauth_id": null,
+					"name": "filedesless",
+					"score": 325
+				},
+				{
+					"id": 216,
+					"oauth_id": null,
+					"name": "chriscremesure",
+					"score": 0
+				},
+				{
+					"id": 211,
+					"oauth_id": null,
+					"name": "shin773",
+					"score": 575
+				}
+			]
+		},
+		{
+			"pos": 4,
+			"account_id": 50,
+			"account_url": "/teams/50",
+			"account_type": "team",
+			"oauth_id": null,
+			"name": "Party Formel",
+			"score": 3425,
+			"members": [
+				{
+					"id": 63,
+					"oauth_id": null,
+					"name": "linkster78",
+					"score": 1400
+				},
+				{
+					"id": 72,
+					"oauth_id": null,
+					"name": "biereaugibierbrigand",
+					"score": 1125
+				},
+				{
+					"id": 73,
+					"oauth_id": null,
+					"name": "kim_the_explorer",
+					"score": 0
+				},
+				{
+					"id": 83,
+					"oauth_id": null,
+					"name": "hannibal119",
+					"score": 825
+				},
+				{
+					"id": 94,
+					"oauth_id": null,
+					"name": "noor572",
+					"score": 75
+				}
+			]
+		},
+		{
+			"pos": 5,
+			"account_id": 72,
+			"account_url": "/teams/72",
+			"account_type": "team",
+			"oauth_id": null,
+			"name": "Trojan Corgi",
+			"score": 3110,
+			"members": [
+				{
+					"id": 173,
+					"oauth_id": null,
+					"name": "gdenhez",
+					"score": 1075
+				},
+				{
+					"id": 191,
+					"oauth_id": null,
+					"name": "NobodyElpapa",
+					"score": 210
+				},
+				{
+					"id": 192,
+					"oauth_id": null,
+					"name": "bloodyvalentine",
+					"score": 1500
+				},
+				{
+					"id": 194,
+					"oauth_id": null,
+					"name": "balou_delaforet",
+					"score": 250
+				},
+				{
+					"id": 223,
+					"oauth_id": null,
+					"name": "mastayoshi.",
+					"score": 75
+				}
+			]
+		},
+		{
+			"pos": 6,
+			"account_id": 59,
+			"account_url": "/teams/59",
+			"account_type": "team",
+			"oauth_id": null,
+			"name": "Unicorne \ud83e\udd84",
+			"score": 2975,
+			"members": [
+				{
+					"id": 108,
+					"oauth_id": null,
+					"name": "teryaki33",
+					"score": 50
+				},
+				{
+					"id": 109,
+					"oauth_id": null,
+					"name": "wingjam",
+					"score": 750
+				},
+				{
+					"id": 115,
+					"oauth_id": null,
+					"name": "joray08",
+					"score": 150
+				},
+				{
+					"id": 121,
+					"oauth_id": null,
+					"name": "alexonlyfans",
+					"score": 1250
+				},
+				{
+					"id": 125,
+					"oauth_id": null,
+					"name": "jseelo",
+					"score": 75
+				},
+				{
+					"id": 133,
+					"oauth_id": null,
+					"name": "jpunicorne",
+					"score": 700
+				}
+			]
+		},
+		{
+			"pos": 7,
+			"account_id": 64,
+			"account_url": "/teams/64",
+			"account_type": "team",
+			"oauth_id": null,
+			"name": "The Narwhals",
+			"score": 2500,
+			"members": [
+				{
+					"id": 106,
+					"oauth_id": null,
+					"name": "reign0ver",
+					"score": 50
+				},
+				{
+					"id": 122,
+					"oauth_id": null,
+					"name": "vedard",
+					"score": 1125
+				},
+				{
+					"id": 126,
+					"oauth_id": null,
+					"name": "gcholette",
+					"score": 500
+				},
+				{
+					"id": 112,
+					"oauth_id": null,
+					"name": "kisnoc",
+					"score": 100
+				},
+				{
+					"id": 136,
+					"oauth_id": null,
+					"name": "b_hugo",
+					"score": 725
+				}
+			]
+		},
+		{
+			"pos": 8,
+			"account_id": 42,
+			"account_url": "/teams/42",
+			"account_type": "team",
+			"oauth_id": null,
+			"name": "Cybeer&gineer",
+			"score": 2355,
+			"members": [
+				{
+					"id": 41,
+					"oauth_id": null,
+					"name": "fgravel",
+					"score": 900
+				},
+				{
+					"id": 47,
+					"oauth_id": null,
+					"name": "4tonight",
+					"score": 1280
+				},
+				{
+					"id": 49,
+					"oauth_id": null,
+					"name": "gasparsec",
+					"score": 75
+				},
+				{
+					"id": 45,
+					"oauth_id": null,
+					"name": "filthykasualfrank",
+					"score": 100
+				},
+				{
+					"id": 204,
+					"oauth_id": null,
+					"name": "res260",
+					"score": 0
+				}
+			]
+		},
+		{
+			"pos": 9,
+			"account_id": 54,
+			"account_url": "/teams/54",
+			"account_type": "team",
+			"oauth_id": null,
+			"name": "C'est ma grand-mere qui paye",
+			"score": 2230,
+			"members": [
+				{
+					"id": 82,
+					"oauth_id": null,
+					"name": "cyberslash17",
+					"score": 825
+				},
+				{
+					"id": 88,
+					"oauth_id": null,
+					"name": "darkshado",
+					"score": 150
+				},
+				{
+					"id": 91,
+					"oauth_id": null,
+					"name": "leosud",
+					"score": 300
+				},
+				{
+					"id": 92,
+					"oauth_id": null,
+					"name": "balnian",
+					"score": 30
+				},
+				{
+					"id": 114,
+					"oauth_id": null,
+					"name": "leedave",
+					"score": 925
+				},
+				{
+					"id": 227,
+					"oauth_id": null,
+					"name": "theprofessor03258",
+					"score": 0
+				}
+			]
+		},
+		{
+			"pos": 10,
+			"account_id": 61,
+			"account_url": "/teams/61",
+			"account_type": "team",
+			"oauth_id": null,
+			"name": "404 flag not found",
+			"score": 2155,
+			"members": [
+				{
+					"id": 110,
+					"oauth_id": null,
+					"name": "vencilton",
+					"score": 530
+				},
+				{
+					"id": 107,
+					"oauth_id": null,
+					"name": "jayjay_7777",
+					"score": 975
+				},
+				{
+					"id": 116,
+					"oauth_id": null,
+					"name": "roloroll",
+					"score": 575
+				},
+				{
+					"id": 139,
+					"oauth_id": null,
+					"name": "feburuum",
+					"score": 75
+				},
+				{
+					"id": 134,
+					"oauth_id": null,
+					"name": "mgunfunk",
+					"score": 0
+				}
+			]
+		},
+		{
+			"pos": 11,
+			"account_id": 46,
+			"account_url": "/teams/46",
+			"account_type": "team",
+			"oauth_id": null,
+			"name": "Shellda : A Link to the Flag",
+			"score": 2040,
+			"members": [
+				{
+					"id": 62,
+					"oauth_id": null,
+					"name": "not_hackerman",
+					"score": 375
+				},
+				{
+					"id": 66,
+					"oauth_id": null,
+					"name": "letigredununavu",
+					"score": 750
+				},
+				{
+					"id": 51,
+					"oauth_id": null,
+					"name": "ovcrash",
+					"score": 475
+				},
+				{
+					"id": 79,
+					"oauth_id": null,
+					"name": "ajay6599",
+					"score": 100
+				},
+				{
+					"id": 78,
+					"oauth_id": null,
+					"name": "sinaxin",
+					"score": 195
+				},
+				{
+					"id": 75,
+					"oauth_id": null,
+					"name": "ericchmtl",
+					"score": 145
+				}
+			]
+		},
+		{
+			"pos": 12,
+			"account_id": 73,
+			"account_url": "/teams/73",
+			"account_type": "team",
+			"oauth_id": null,
+			"name": "PolyCyber",
+			"score": 1930,
+			"members": [
+				{
+					"id": 184,
+					"oauth_id": null,
+					"name": "bigboy_87",
+					"score": 75
+				},
+				{
+					"id": 180,
+					"oauth_id": null,
+					"name": "01100111001100110011001101101011",
+					"score": 1780
+				},
+				{
+					"id": 187,
+					"oauth_id": null,
+					"name": "_kais_",
+					"score": 0
+				},
+				{
+					"id": 202,
+					"oauth_id": null,
+					"name": "mathieu_phil",
+					"score": 0
+				},
+				{
+					"id": 210,
+					"oauth_id": null,
+					"name": "_h3is3nberg_",
+					"score": 75
+				},
+				{
+					"id": 244,
+					"oauth_id": null,
+					"name": "sara.bed",
+					"score": 0
+				}
+			]
+		},
+		{
+			"pos": 13,
+			"account_id": 43,
+			"account_url": "/teams/43",
+			"account_type": "team",
+			"oauth_id": null,
+			"name": "Here4Beer",
+			"score": 1845,
+			"members": [
+				{
+					"id": 43,
+					"oauth_id": null,
+					"name": "parsodark",
+					"score": 500
+				},
+				{
+					"id": 44,
+					"oauth_id": null,
+					"name": "captnlink",
+					"score": 175
+				},
+				{
+					"id": 146,
+					"oauth_id": null,
+					"name": "jc6505",
+					"score": 720
+				},
+				{
+					"id": 159,
+					"oauth_id": null,
+					"name": "Etienne",
+					"score": 275
+				},
+				{
+					"id": 200,
+					"oauth_id": null,
+					"name": "spanska",
+					"score": 175
+				},
+				{
+					"id": 247,
+					"oauth_id": null,
+					"name": "gabisima",
+					"score": 0
+				}
+			]
+		},
+		{
+			"pos": 14,
+			"account_id": 55,
+			"account_url": "/teams/55",
+			"account_type": "team",
+			"oauth_id": null,
+			"name": "Plastiik",
+			"score": 1780,
+			"members": [
+				{
+					"id": 84,
+					"oauth_id": null,
+					"name": "cr1ng3",
+					"score": 275
+				},
+				{
+					"id": 95,
+					"oauth_id": null,
+					"name": "fredcaps",
+					"score": 325
+				},
+				{
+					"id": 89,
+					"oauth_id": null,
+					"name": "cellou_",
+					"score": 255
+				},
+				{
+					"id": 102,
+					"oauth_id": null,
+					"name": "bobobo",
+					"score": 75
+				},
+				{
+					"id": 105,
+					"oauth_id": null,
+					"name": ".cozyglow",
+					"score": 775
+				},
+				{
+					"id": 117,
+					"oauth_id": null,
+					"name": "xdrubik",
+					"score": 75
+				}
+			]
+		},
+		{
+			"pos": 15,
+			"account_id": 49,
+			"account_url": "/teams/49",
+			"account_type": "team",
+			"oauth_id": null,
+			"name": "BFF",
+			"score": 1750,
+			"members": [
+				{
+					"id": 67,
+					"oauth_id": null,
+					"name": "hommeabeil",
+					"score": 175
+				},
+				{
+					"id": 60,
+					"oauth_id": null,
+					"name": "matrix560",
+					"score": 75
+				},
+				{
+					"id": 61,
+					"oauth_id": null,
+					"name": "noobishlemur",
+					"score": 700
+				},
+				{
+					"id": 76,
+					"oauth_id": null,
+					"name": "Yann",
+					"score": 300
+				},
+				{
+					"id": 56,
+					"oauth_id": null,
+					"name": "scandium4521",
+					"score": 300
+				},
+				{
+					"id": 69,
+					"oauth_id": null,
+					"name": "hamdi2165",
+					"score": 200
+				}
+			]
+		},
+		{
+			"pos": 16,
+			"account_id": 52,
+			"account_url": "/teams/52",
+			"account_type": "team",
+			"oauth_id": null,
+			"name": "Screenless",
+			"score": 1705,
+			"members": [
+				{
+					"id": 57,
+					"oauth_id": null,
+					"name": "albinogengar",
+					"score": 725
+				},
+				{
+					"id": 70,
+					"oauth_id": null,
+					"name": "vvv9658",
+					"score": 300
+				},
+				{
+					"id": 74,
+					"oauth_id": null,
+					"name": "p0rcinet",
+					"score": 125
+				},
+				{
+					"id": 65,
+					"oauth_id": null,
+					"name": "cr4zyb0t",
+					"score": 225
+				},
+				{
+					"id": 104,
+					"oauth_id": null,
+					"name": "insomniakkk",
+					"score": 155
+				},
+				{
+					"id": 209,
+					"oauth_id": null,
+					"name": "p0tato",
+					"score": 175
+				}
+			]
+		},
+		{
+			"pos": 17,
+			"account_id": 60,
+			"account_url": "/teams/60",
+			"account_type": "team",
+			"oauth_id": null,
+			"name": "Les Padawans de l'Horloge - JDIS",
+			"score": 1680,
+			"members": [
+				{
+					"id": 100,
+					"oauth_id": null,
+					"name": "d4em3on",
+					"score": 105
+				},
+				{
+					"id": 162,
+					"oauth_id": null,
+					"name": "dr.pickle_1622",
+					"score": 400
+				},
+				{
+					"id": 172,
+					"oauth_id": null,
+					"name": "mariesoleil",
+					"score": 600
+				},
+				{
+					"id": 206,
+					"oauth_id": null,
+					"name": "carolacroix",
+					"score": 225
+				},
+				{
+					"id": 207,
+					"oauth_id": null,
+					"name": "rmi78",
+					"score": 350
+				},
+				{
+					"id": 249,
+					"oauth_id": null,
+					"name": "remi6053",
+					"score": 0
+				}
+			]
+		},
+		{
+			"pos": 18,
+			"account_id": 57,
+			"account_url": "/teams/57",
+			"account_type": "team",
+			"oauth_id": null,
+			"name": "Spy",
+			"score": 1615,
+			"members": [
+				{
+					"id": 93,
+					"oauth_id": null,
+					"name": "zorkyx22",
+					"score": 425
+				},
+				{
+					"id": 97,
+					"oauth_id": null,
+					"name": "mymelody1242",
+					"score": 0
+				},
+				{
+					"id": 103,
+					"oauth_id": null,
+					"name": "_nate_the_great",
+					"score": 650
+				},
+				{
+					"id": 151,
+					"oauth_id": null,
+					"name": "horacioarruda",
+					"score": 180
+				},
+				{
+					"id": 185,
+					"oauth_id": null,
+					"name": "spydix",
+					"score": 0
+				},
+				{
+					"id": 215,
+					"oauth_id": null,
+					"name": "h3dg3h0g",
+					"score": 360
+				}
+			]
+		},
+		{
+			"pos": 19,
+			"account_id": 69,
+			"account_url": "/teams/69",
+			"account_type": "team",
+			"oauth_id": null,
+			"name": "JDIS",
+			"score": 1605,
+			"members": [
+				{
+					"id": 166,
+					"oauth_id": null,
+					"name": "capucinoxx",
+					"score": 675
+				},
+				{
+					"id": 179,
+					"oauth_id": null,
+					"name": "jactymilena",
+					"score": 400
+				},
+				{
+					"id": 188,
+					"oauth_id": null,
+					"name": "talgarr",
+					"score": 205
+				},
+				{
+					"id": 197,
+					"oauth_id": null,
+					"name": "spec2uloos",
+					"score": 0
+				},
+				{
+					"id": 201,
+					"oauth_id": null,
+					"name": "aqb_",
+					"score": 325
+				}
+			]
+		},
+		{
+			"pos": 20,
+			"account_id": 53,
+			"account_url": "/teams/53",
+			"account_type": "team",
+			"oauth_id": null,
+			"name": "Platypus Joviale",
+			"score": 1505,
+			"members": [
+				{
+					"id": 80,
+					"oauth_id": null,
+					"name": "curlyfire.",
+					"score": 375
+				},
+				{
+					"id": 86,
+					"oauth_id": null,
+					"name": ".lorac",
+					"score": 300
+				},
+				{
+					"id": 87,
+					"oauth_id": null,
+					"name": "entropie",
+					"score": 0
+				},
+				{
+					"id": 77,
+					"oauth_id": null,
+					"name": "cag6423",
+					"score": 330
+				},
+				{
+					"id": 99,
+					"oauth_id": null,
+					"name": "drgnzn",
+					"score": 500
+				},
+				{
+					"id": 255,
+					"oauth_id": null,
+					"name": "hf_jc",
+					"score": 0
+				}
+			]
+		},
+		{
+			"pos": 21,
+			"account_id": 48,
+			"account_url": "/teams/48",
+			"account_type": "team",
+			"oauth_id": null,
+			"name": "Cuttlefish (Coveo)",
+			"score": 1455,
+			"members": [
+				{
+					"id": 52,
+					"oauth_id": null,
+					"name": "skillfin",
+					"score": 180
+				},
+				{
+					"id": 149,
+					"oauth_id": null,
+					"name": "moonias",
+					"score": 375
+				},
+				{
+					"id": 153,
+					"oauth_id": null,
+					"name": "ppferland",
+					"score": 300
+				},
+				{
+					"id": 160,
+					"oauth_id": null,
+					"name": "quckslvr",
+					"score": 275
+				},
+				{
+					"id": 208,
+					"oauth_id": null,
+					"name": "sbegin",
+					"score": 325
+				}
+			]
+		},
+		{
+			"pos": 22,
+			"account_id": 47,
+			"account_url": "/teams/47",
+			"account_type": "team",
+			"oauth_id": null,
+			"name": "Gr33nLand",
+			"score": 1400,
+			"members": [
+				{
+					"id": 58,
+					"oauth_id": null,
+					"name": "Nicsau",
+					"score": 175
+				},
+				{
+					"id": 42,
+					"oauth_id": null,
+					"name": "sebbbb9304",
+					"score": 475
+				},
+				{
+					"id": 53,
+					"oauth_id": null,
+					"name": "zerologin101",
+					"score": 300
+				},
+				{
+					"id": 71,
+					"oauth_id": null,
+					"name": "flowerp45",
+					"score": 150
+				},
+				{
+					"id": 50,
+					"oauth_id": null,
+					"name": "gzuxix",
+					"score": 300
+				},
+				{
+					"id": 177,
+					"oauth_id": null,
+					"name": "r_one_hq",
+					"score": 0
+				}
+			]
+		},
+		{
+			"pos": 23,
+			"account_id": 70,
+			"account_url": "/teams/70",
+			"account_type": "team",
+			"oauth_id": null,
+			"name": "404 Flag Not Found",
+			"score": 1150,
+			"members": [
+				{
+					"id": 178,
+					"oauth_id": null,
+					"name": "vales.ca",
+					"score": 325
+				},
+				{
+					"id": 189,
+					"oauth_id": null,
+					"name": "arth_e",
+					"score": 0
+				},
+				{
+					"id": 198,
+					"oauth_id": null,
+					"name": "sublimet",
+					"score": 350
+				},
+				{
+					"id": 221,
+					"oauth_id": null,
+					"name": "osmiumpeach",
+					"score": 475
+				},
+				{
+					"id": 248,
+					"oauth_id": null,
+					"name": "arik030500",
+					"score": 0
+				}
+			]
+		},
+		{
+			"pos": 24,
+			"account_id": 44,
+			"account_url": "/teams/44",
+			"account_type": "team",
+			"oauth_id": null,
+			"name": "lolsec",
+			"score": 930,
+			"members": [
+				{
+					"id": 46,
+					"oauth_id": null,
+					"name": ".zerosec",
+					"score": 480
+				},
+				{
+					"id": 48,
+					"oauth_id": null,
+					"name": "satanicdwarf",
+					"score": 75
+				},
+				{
+					"id": 54,
+					"oauth_id": null,
+					"name": "Deadpool",
+					"score": 75
+				},
+				{
+					"id": 59,
+					"oauth_id": null,
+					"name": "georgewashingmachine420",
+					"score": 0
+				},
+				{
+					"id": 132,
+					"oauth_id": null,
+					"name": "ctf_ds",
+					"score": 225
+				},
+				{
+					"id": 242,
+					"oauth_id": null,
+					"name": "leemy6493",
+					"score": 75
+				}
+			]
+		},
+		{
+			"pos": 25,
+			"account_id": 63,
+			"account_url": "/teams/63",
+			"account_type": "team",
+			"oauth_id": null,
+			"name": "42Quebec",
+			"score": 880,
+			"members": [
+				{
+					"id": 118,
+					"oauth_id": null,
+					"name": "swodax",
+					"score": 75
+				},
+				{
+					"id": 128,
+					"oauth_id": null,
+					"name": "frankydo",
+					"score": 550
+				},
+				{
+					"id": 135,
+					"oauth_id": null,
+					"name": "mrkipp",
+					"score": 0
+				},
+				{
+					"id": 157,
+					"oauth_id": null,
+					"name": "tonyg92x",
+					"score": 100
+				},
+				{
+					"id": 144,
+					"oauth_id": null,
+					"name": "whoo",
+					"score": 155
+				}
+			]
+		},
+		{
+			"pos": 26,
+			"account_id": 65,
+			"account_url": "/teams/65",
+			"account_type": "team",
+			"oauth_id": null,
+			"name": "Patate_31",
+			"score": 830,
+			"members": [
+				{
+					"id": 127,
+					"oauth_id": null,
+					"name": "_deadbeef_",
+					"score": 0
+				},
+				{
+					"id": 158,
+					"oauth_id": null,
+					"name": "willgou",
+					"score": 75
+				},
+				{
+					"id": 145,
+					"oauth_id": null,
+					"name": ".ateneo",
+					"score": 400
+				},
+				{
+					"id": 163,
+					"oauth_id": null,
+					"name": "William Garneau",
+					"score": 325
+				},
+				{
+					"id": 164,
+					"oauth_id": null,
+					"name": "j_f_g",
+					"score": 0
+				},
+				{
+					"id": 169,
+					"oauth_id": null,
+					"name": "gear04",
+					"score": 30
+				}
+			]
+		},
+		{
+			"pos": 27,
+			"account_id": 51,
+			"account_url": "/teams/51",
+			"account_type": "team",
+			"oauth_id": null,
+			"name": "CybeerHacker",
+			"score": 755,
+			"members": [
+				{
+					"id": 68,
+					"oauth_id": null,
+					"name": ".mystack",
+					"score": 405
+				},
+				{
+					"id": 130,
+					"oauth_id": null,
+					"name": "ziicho",
+					"score": 0
+				},
+				{
+					"id": 138,
+					"oauth_id": null,
+					"name": "raging_chicken",
+					"score": 225
+				},
+				{
+					"id": 203,
+					"oauth_id": null,
+					"name": "ronel_40257",
+					"score": 0
+				},
+				{
+					"id": 217,
+					"oauth_id": null,
+					"name": "Momo01",
+					"score": 50
+				},
+				{
+					"id": 250,
+					"oauth_id": null,
+					"name": "alexandre192837",
+					"score": 75
+				}
+			]
+		},
+		{
+			"pos": 28,
+			"account_id": 56,
+			"account_url": "/teams/56",
+			"account_type": "team",
+			"oauth_id": null,
+			"name": "securitybylegacy",
+			"score": 730,
+			"members": [
+				{
+					"id": 81,
+					"oauth_id": null,
+					"name": "413x1976",
+					"score": 125
+				},
+				{
+					"id": 111,
+					"oauth_id": null,
+					"name": "d3fd3c0y",
+					"score": 30
+				},
+				{
+					"id": 113,
+					"oauth_id": null,
+					"name": "fight4life",
+					"score": 75
+				},
+				{
+					"id": 148,
+					"oauth_id": null,
+					"name": "midnight_._storm",
+					"score": 375
+				},
+				{
+					"id": 152,
+					"oauth_id": null,
+					"name": "lpcollin",
+					"score": 0
+				},
+				{
+					"id": 186,
+					"oauth_id": null,
+					"name": "thekinggrinch",
+					"score": 125
+				}
+			]
+		},
+		{
+			"pos": 29,
+			"account_id": 76,
+			"account_url": "/teams/76",
+			"account_type": "team",
+			"oauth_id": null,
+			"name": "Tactic Titan",
+			"score": 725,
+			"members": [
+				{
+					"id": 225,
+					"oauth_id": null,
+					"name": "mechantmarc",
+					"score": 125
+				},
+				{
+					"id": 226,
+					"oauth_id": null,
+					"name": "_wound",
+					"score": 0
+				},
+				{
+					"id": 228,
+					"oauth_id": null,
+					"name": "shroomy69",
+					"score": 600
+				},
+				{
+					"id": 229,
+					"oauth_id": null,
+					"name": "_raynol",
+					"score": 0
+				},
+				{
+					"id": 231,
+					"oauth_id": null,
+					"name": "aynidow",
+					"score": 0
+				}
+			]
+		},
+		{
+			"pos": 30,
+			"account_id": 66,
+			"account_url": "/teams/66",
+			"account_type": "team",
+			"oauth_id": null,
+			"name": "Dr. EmmETS Brown Fanclub",
+			"score": 675,
+			"members": [
+				{
+					"id": 123,
+					"oauth_id": null,
+					"name": "samidragon",
+					"score": 475
+				},
+				{
+					"id": 147,
+					"oauth_id": null,
+					"name": "Ali31415",
+					"score": 75
+				},
+				{
+					"id": 170,
+					"oauth_id": null,
+					"name": "deimos_qc",
+					"score": 0
+				},
+				{
+					"id": 175,
+					"oauth_id": null,
+					"name": "qraqen",
+					"score": 0
+				},
+				{
+					"id": 190,
+					"oauth_id": null,
+					"name": "ananke_",
+					"score": 125
+				},
+				{
+					"id": 263,
+					"oauth_id": null,
+					"name": "constantcontent",
+					"score": 0
+				}
+			]
+		},
+		{
+			"pos": 31,
+			"account_id": 75,
+			"account_url": "/teams/75",
+			"account_type": "team",
+			"oauth_id": null,
+			"name": "Ginette123",
+			"score": 625,
+			"members": [
+				{
+					"id": 218,
+					"oauth_id": null,
+					"name": "gulli1",
+					"score": 300
+				},
+				{
+					"id": 222,
+					"oauth_id": null,
+					"name": "bobafaite",
+					"score": 175
+				},
+				{
+					"id": 220,
+					"oauth_id": null,
+					"name": "_emery_",
+					"score": 0
+				},
+				{
+					"id": 224,
+					"oauth_id": null,
+					"name": "m4mush",
+					"score": 150
+				}
+			]
+		},
+		{
+			"pos": 32,
+			"account_id": 78,
+			"account_url": "/teams/78",
+			"account_type": "team",
+			"oauth_id": null,
+			"name": "SinisterOctopus",
+			"score": 625,
+			"members": [
+				{
+					"id": 240,
+					"oauth_id": null,
+					"name": "MarieCh",
+					"score": 0
+				},
+				{
+					"id": 237,
+					"oauth_id": null,
+					"name": "otaphoque",
+					"score": 0
+				},
+				{
+					"id": 245,
+					"oauth_id": null,
+					"name": "rubixxcube",
+					"score": 100
+				},
+				{
+					"id": 253,
+					"oauth_id": null,
+					"name": "mastermitch",
+					"score": 525
+				},
+				{
+					"id": 254,
+					"oauth_id": null,
+					"name": "gus_rochette",
+					"score": 0
+				}
+			]
+		},
+		{
+			"pos": 33,
+			"account_id": 67,
+			"account_url": "/teams/67",
+			"account_type": "team",
+			"oauth_id": null,
+			"name": "Flags_R_Us",
+			"score": 480,
+			"members": [
+				{
+					"id": 155,
+					"oauth_id": null,
+					"name": "jogoyo",
+					"score": 130
+				},
+				{
+					"id": 142,
+					"oauth_id": null,
+					"name": "gibby4231",
+					"score": 0
+				},
+				{
+					"id": 165,
+					"oauth_id": null,
+					"name": "jess7637",
+					"score": 125
+				},
+				{
+					"id": 167,
+					"oauth_id": null,
+					"name": "Vic",
+					"score": 75
+				},
+				{
+					"id": 238,
+					"oauth_id": null,
+					"name": "hackermantoto",
+					"score": 150
+				},
+				{
+					"id": 259,
+					"oauth_id": null,
+					"name": "penteract",
+					"score": 0
+				}
+			]
+		},
+		{
+			"pos": 34,
+			"account_id": 41,
+			"account_url": "/teams/41",
+			"account_type": "team",
+			"oauth_id": null,
+			"name": "Team346",
+			"score": 475,
+			"members": [
+				{
+					"id": 64,
+					"oauth_id": null,
+					"name": "cyberal1214",
+					"score": 0
+				},
+				{
+					"id": 40,
+					"oauth_id": null,
+					"name": "frank514.",
+					"score": 400
+				},
+				{
+					"id": 85,
+					"oauth_id": null,
+					"name": "xsauvex",
+					"score": 75
+				},
+				{
+					"id": 90,
+					"oauth_id": null,
+					"name": "azylis_sebr",
+					"score": 0
+				},
+				{
+					"id": 98,
+					"oauth_id": null,
+					"name": "lokanius",
+					"score": 0
+				},
+				{
+					"id": 156,
+					"oauth_id": null,
+					"name": "Emilie Arseneault",
+					"score": 0
+				},
+				{
+					"id": 257,
+					"oauth_id": null,
+					"name": "faindai",
+					"score": 0
+				}
+			]
+		},
+		{
+			"pos": 35,
+			"account_id": 74,
+			"account_url": "/teams/74",
+			"account_type": "team",
+			"oauth_id": null,
+			"name": "Unskilled Hackers",
+			"score": 475,
+			"members": [
+				{
+					"id": 193,
+					"oauth_id": null,
+					"name": "willyph",
+					"score": 250
+				},
+				{
+					"id": 205,
+					"oauth_id": null,
+					"name": "reallybigabe",
+					"score": 0
+				},
+				{
+					"id": 230,
+					"oauth_id": null,
+					"name": "ned_graylog",
+					"score": 0
+				},
+				{
+					"id": 243,
+					"oauth_id": null,
+					"name": "sithari",
+					"score": 75
+				},
+				{
+					"id": 246,
+					"oauth_id": null,
+					"name": "zippytrippy",
+					"score": 150
+				}
+			]
+		},
+		{
+			"pos": 36,
+			"account_id": 68,
+			"account_url": "/teams/68",
+			"account_type": "team",
+			"oauth_id": null,
+			"name": "SLAMR!!!",
+			"score": 455,
+			"members": [
+				{
+					"id": 171,
+					"oauth_id": null,
+					"name": "mugzor",
+					"score": 5
+				},
+				{
+					"id": 181,
+					"oauth_id": null,
+					"name": "ms_robbie",
+					"score": 0
+				},
+				{
+					"id": 182,
+					"oauth_id": null,
+					"name": "getlowplo",
+					"score": 100
+				},
+				{
+					"id": 239,
+					"oauth_id": null,
+					"name": "mrnini07",
+					"score": 150
+				},
+				{
+					"id": 241,
+					"oauth_id": null,
+					"name": "rodgerleblanc",
+					"score": 200
+				},
+				{
+					"id": 262,
+					"oauth_id": null,
+					"name": "philenski",
+					"score": 0
+				}
+			]
+		},
+		{
+			"pos": 37,
+			"account_id": 58,
+			"account_url": "/teams/58",
+			"account_type": "team",
+			"oauth_id": null,
+			"name": "FaxThePlanet",
+			"score": 430,
+			"members": [
+				{
+					"id": 137,
+					"oauth_id": null,
+					"name": "viral_antagonist",
+					"score": 130
+				},
+				{
+					"id": 141,
+					"oauth_id": null,
+					"name": "23secname",
+					"score": 0
+				},
+				{
+					"id": 101,
+					"oauth_id": null,
+					"name": "poilenchante",
+					"score": 75
+				},
+				{
+					"id": 168,
+					"oauth_id": null,
+					"name": "ioio_51266",
+					"score": 225
+				},
+				{
+					"id": 199,
+					"oauth_id": null,
+					"name": "613_ah",
+					"score": 0
+				}
+			]
+		},
+		{
+			"pos": 38,
+			"account_id": 77,
+			"account_url": "/teams/77",
+			"account_type": "team",
+			"oauth_id": null,
+			"name": "The Nancy's",
+			"score": 95,
+			"members": [
+				{
+					"id": 232,
+					"oauth_id": null,
+					"name": "mouin2639",
+					"score": 20
+				},
+				{
+					"id": 235,
+					"oauth_id": null,
+					"name": "marg.host",
+					"score": 0
+				},
+				{
+					"id": 236,
+					"oauth_id": null,
+					"name": "Max_P",
+					"score": 75
+				},
+				{
+					"id": 251,
+					"oauth_id": null,
+					"name": "thezircom",
+					"score": 0
+				},
+				{
+					"id": 252,
+					"oauth_id": null,
+					"name": "thebarber.",
+					"score": 0
+				},
+				{
+					"id": 258,
+					"oauth_id": null,
+					"name": "demonseed6101",
+					"score": 0
+				}
+			]
+		}
+	]
+}

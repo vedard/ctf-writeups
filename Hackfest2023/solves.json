@@ -1,0 +1,188 @@
+{
+    "success": true,
+    "data": [
+        {
+            "date": "2023-10-14T05:37:07.906687+00:00",
+            "challenge_id": 57,
+            "user": {
+                "name": "vedard",
+                "id": 122
+            },
+            "team": {
+                "name": "The Narwhals",
+                "id": 64
+            },
+            "type": "correct",
+            "id": 2371,
+            "challenge": {
+                "category": "Azure pentest (salt)",
+                "value": 100,
+                "name": "02 - Initial Access",
+                "id": 57
+            }
+        },
+        {
+            "date": "2023-10-14T03:45:51.284989+00:00",
+            "challenge_id": 76,
+            "user": {
+                "name": "vedard",
+                "id": 122
+            },
+            "team": {
+                "name": "The Narwhals",
+                "id": 64
+            },
+            "type": "correct",
+            "id": 2231,
+            "challenge": {
+                "category": "Lost in History (TheRage)",
+                "value": 75,
+                "name": "01 - Tiny changes",
+                "id": 76
+            }
+        },
+        {
+            "date": "2023-10-13T23:51:00.095799+00:00",
+            "challenge_id": 87,
+            "user": {
+                "name": "vedard",
+                "id": 122
+            },
+            "team": {
+                "name": "The Narwhals",
+                "id": 64
+            },
+            "type": "correct",
+            "id": 1722,
+            "challenge": {
+                "category": "Secure'nt is going red (Brainmoustache)",
+                "value": 75,
+                "name": "10 - Look further into the details",
+                "id": 87
+            }
+        },
+        {
+            "date": "2023-10-13T22:51:41.186249+00:00",
+            "challenge_id": 81,
+            "user": {
+                "name": "vedard",
+                "id": 122
+            },
+            "team": {
+                "name": "The Narwhals",
+                "id": 64
+            },
+            "type": "correct",
+            "id": 1634,
+            "challenge": {
+                "category": "Secure'nt is going red (Brainmoustache)",
+                "value": 150,
+                "name": "04 - Found a big phish",
+                "id": 81
+            }
+        },
+        {
+            "date": "2023-10-13T20:19:21.982065+00:00",
+            "challenge_id": 51,
+            "user": {
+                "name": "vedard",
+                "id": 122
+            },
+            "team": {
+                "name": "The Narwhals",
+                "id": 64
+            },
+            "type": "correct",
+            "id": 1230,
+            "challenge": {
+                "category": "Vaults of Time (muemmelmoehre)",
+                "value": 200,
+                "name": "02 - Hidden Treasure",
+                "id": 51
+            }
+        },
+        {
+            "date": "2023-10-13T20:19:01.838482+00:00",
+            "challenge_id": 50,
+            "user": {
+                "name": "vedard",
+                "id": 122
+            },
+            "team": {
+                "name": "The Narwhals",
+                "id": 64
+            },
+            "type": "correct",
+            "id": 1229,
+            "challenge": {
+                "category": "Vaults of Time (muemmelmoehre)",
+                "value": 150,
+                "name": "01 - Safeguarded Secrets",
+                "id": 50
+            }
+        },
+        {
+            "date": "2023-10-13T15:46:39.234030+00:00",
+            "challenge_id": 49,
+            "user": {
+                "name": "vedard",
+                "id": 122
+            },
+            "team": {
+                "name": "The Narwhals",
+                "id": 64
+            },
+            "type": "correct",
+            "id": 470,
+            "challenge": {
+                "category": "Phone to the Future (muemmelmoehre)",
+                "value": 175,
+                "name": "03 - Time is in flux... Flogs... Flags!",
+                "id": 49
+            }
+        },
+        {
+            "date": "2023-10-13T15:22:35.977110+00:00",
+            "challenge_id": 48,
+            "user": {
+                "name": "vedard",
+                "id": 122
+            },
+            "team": {
+                "name": "The Narwhals",
+                "id": 64
+            },
+            "type": "correct",
+            "id": 365,
+            "challenge": {
+                "category": "Phone to the Future (muemmelmoehre)",
+                "value": 125,
+                "name": "02 - Phones just wanna call home",
+                "id": 48
+            }
+        },
+        {
+            "date": "2023-10-13T14:45:09.654343+00:00",
+            "challenge_id": 47,
+            "user": {
+                "name": "vedard",
+                "id": 122
+            },
+            "team": {
+                "name": "The Narwhals",
+                "id": 64
+            },
+            "type": "correct",
+            "id": 145,
+            "challenge": {
+                "category": "Phone to the Future (muemmelmoehre)",
+                "value": 75,
+                "name": "01 - Dig in!",
+                "id": 47
+            }
+        }
+    ],
+    "meta": {
+        "count": 9
+    }
+}
