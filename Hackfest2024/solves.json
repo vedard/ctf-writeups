@@ -1,0 +1,228 @@
+{
+    "success": true,
+    "data": [
+        {
+            "type": "correct",
+            "user": {
+                "name": "vedard",
+                "id": 31
+            },
+            "date": "2024-10-11T22:14:48.165562+00:00",
+            "team": {
+                "name": "The Narwhals",
+                "id": 6
+            },
+            "challenge_id": 81,
+            "id": 6032,
+            "challenge": {
+                "name": "2/6 - Cute and Fuzzy",
+                "category": "ABC -> RPC (pn-tester)",
+                "id": 81,
+                "value": 125
+            }
+        },
+        {
+            "type": "correct",
+            "user": {
+                "name": "vedard",
+                "id": 31
+            },
+            "date": "2024-10-11T20:46:08.048789+00:00",
+            "team": {
+                "name": "The Narwhals",
+                "id": 6
+            },
+            "challenge_id": 142,
+            "id": 5328,
+            "challenge": {
+                "name": "SNES repo",
+                "category": "Misc  (Rastislonge)",
+                "id": 142,
+                "value": 100
+            }
+        },
+        {
+            "type": "correct",
+            "user": {
+                "name": "vedard",
+                "id": 31
+            },
+            "date": "2024-10-11T19:39:43.784938+00:00",
+            "team": {
+                "name": "The Narwhals",
+                "id": 6
+            },
+            "challenge_id": 63,
+            "id": 4943,
+            "challenge": {
+                "name": "3/9 - Somewhat of a maze",
+                "category": "GALACTICA.DNSNET (dax)",
+                "id": 63,
+                "value": 150
+            }
+        },
+        {
+            "type": "correct",
+            "user": {
+                "name": "vedard",
+                "id": 31
+            },
+            "date": "2024-10-11T07:05:10.579584+00:00",
+            "team": {
+                "name": "The Narwhals",
+                "id": 6
+            },
+            "challenge_id": 98,
+            "id": 1760,
+            "challenge": {
+                "name": "3- Easy Azure pentest",
+                "category": "cloud (salt)",
+                "id": 98,
+                "value": 100
+            }
+        },
+        {
+            "type": "correct",
+            "user": {
+                "name": "vedard",
+                "id": 31
+            },
+            "date": "2024-10-11T06:22:13.957682+00:00",
+            "team": {
+                "name": "The Narwhals",
+                "id": 6
+            },
+            "challenge_id": 97,
+            "id": 1555,
+            "challenge": {
+                "name": "2- Easy Azure pentest",
+                "category": "cloud (salt)",
+                "id": 97,
+                "value": 100
+            }
+        },
+        {
+            "type": "correct",
+            "user": {
+                "name": "vedard",
+                "id": 31
+            },
+            "date": "2024-10-11T05:27:07.982220+00:00",
+            "team": {
+                "name": "The Narwhals",
+                "id": 6
+            },
+            "challenge_id": 95,
+            "id": 1283,
+            "challenge": {
+                "name": "1- Easy Azure pentest",
+                "category": "cloud (salt)",
+                "id": 95,
+                "value": 50
+            }
+        },
+        {
+            "type": "correct",
+            "user": {
+                "name": "vedard",
+                "id": 31
+            },
+            "date": "2024-10-11T04:14:36.101851+00:00",
+            "team": {
+                "name": "The Narwhals",
+                "id": 6
+            },
+            "challenge_id": 134,
+            "id": 867,
+            "challenge": {
+                "name": "Don't Trust Developers III",
+                "category": "GitLab Pipeline Security (FLR)",
+                "id": 134,
+                "value": 75
+            }
+        },
+        {
+            "type": "correct",
+            "user": {
+                "name": "vedard",
+                "id": 31
+            },
+            "date": "2024-10-11T03:52:40.432390+00:00",
+            "team": {
+                "name": "The Narwhals",
+                "id": 6
+            },
+            "challenge_id": 133,
+            "id": 791,
+            "challenge": {
+                "name": "Don't Trust Developers II",
+                "category": "GitLab Pipeline Security (FLR)",
+                "id": 133,
+                "value": 75
+            }
+        },
+        {
+            "type": "correct",
+            "user": {
+                "name": "vedard",
+                "id": 31
+            },
+            "date": "2024-10-11T03:32:35.743392+00:00",
+            "team": {
+                "name": "The Narwhals",
+                "id": 6
+            },
+            "challenge_id": 132,
+            "id": 683,
+            "challenge": {
+                "name": "Don't Trust Developers I",
+                "category": "GitLab Pipeline Security (FLR)",
+                "id": 132,
+                "value": 50
+            }
+        },
+        {
+            "type": "correct",
+            "user": {
+                "name": "vedard",
+                "id": 31
+            },
+            "date": "2024-10-11T03:08:44.236931+00:00",
+            "team": {
+                "name": "The Narwhals",
+                "id": 6
+            },
+            "challenge_id": 110,
+            "id": 549,
+            "challenge": {
+                "name": "Can't be RSS'd 2",
+                "category": "mobile/web/steganography (muemmelmoehre)",
+                "id": 110,
+                "value": 100
+            }
+        },
+        {
+            "type": "correct",
+            "user": {
+                "name": "vedard",
+                "id": 31
+            },
+            "date": "2024-10-11T02:06:42.150485+00:00",
+            "team": {
+                "name": "The Narwhals",
+                "id": 6
+            },
+            "challenge_id": 109,
+            "id": 61,
+            "challenge": {
+                "name": "Can't be RSS'd 1",
+                "category": "mobile (muemmelmoehre)",
+                "id": 109,
+                "value": 75
+            }
+        }
+    ],
+    "meta": {
+        "count": 11
+    }
+}
