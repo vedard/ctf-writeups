@@ -1,0 +1,388 @@
+{
+    "success": true,
+    "data": [
+        {
+            "type": "correct",
+            "id": 4741,
+            "date": "2025-10-17T22:06:12.089515+00:00",
+            "team": {
+                "name": "TheNarwhals",
+                "id": 26
+            },
+            "user": {
+                "name": "vedard",
+                "id": 74
+            },
+            "challenge": {
+                "name": "04 - Exfiltration & Impact",
+                "id": 6,
+                "category": "APT 514 (Houssem0x1)",
+                "value": 250
+            },
+            "challenge_id": 6
+        },
+        {
+            "type": "correct",
+            "id": 3782,
+            "date": "2025-10-17T17:47:37.948453+00:00",
+            "team": {
+                "name": "TheNarwhals",
+                "id": 26
+            },
+            "user": {
+                "name": "vedard",
+                "id": 74
+            },
+            "challenge": {
+                "name": "0x3 - Sonar Pod",
+                "id": 105,
+                "category": "Submarine Dock (m3ow.dev)",
+                "value": 300
+            },
+            "challenge_id": 105
+        },
+        {
+            "type": "correct",
+            "id": 3761,
+            "date": "2025-10-17T17:45:17.895813+00:00",
+            "team": {
+                "name": "TheNarwhals",
+                "id": 26
+            },
+            "user": {
+                "name": "vedard",
+                "id": 74
+            },
+            "challenge": {
+                "name": "0x2 - Dive deeper",
+                "id": 104,
+                "category": "Submarine Dock (m3ow.dev)",
+                "value": 200
+            },
+            "challenge_id": 104
+        },
+        {
+            "type": "correct",
+            "id": 3745,
+            "date": "2025-10-17T17:38:27.391052+00:00",
+            "team": {
+                "name": "TheNarwhals",
+                "id": 26
+            },
+            "user": {
+                "name": "vedard",
+                "id": 74
+            },
+            "challenge": {
+                "name": "0x1 - Control System",
+                "id": 103,
+                "category": "Submarine Dock (m3ow.dev)",
+                "value": 50
+            },
+            "challenge_id": 103
+        },
+        {
+            "type": "correct",
+            "id": 3286,
+            "date": "2025-10-17T15:01:39.135890+00:00",
+            "team": {
+                "name": "TheNarwhals",
+                "id": 26
+            },
+            "user": {
+                "name": "vedard",
+                "id": 74
+            },
+            "challenge": {
+                "name": "11 - Learn to delegate",
+                "id": 79,
+                "category": "Learn The Alphabet (Lutzenfried)",
+                "value": 150
+            },
+            "challenge_id": 79
+        },
+        {
+            "type": "correct",
+            "id": 3119,
+            "date": "2025-10-17T14:11:50.532032+00:00",
+            "team": {
+                "name": "TheNarwhals",
+                "id": 26
+            },
+            "user": {
+                "name": "vedard",
+                "id": 74
+            },
+            "challenge": {
+                "name": "12 - Looking everywhere",
+                "id": 80,
+                "category": "Learn The Alphabet (Lutzenfried)",
+                "value": 75
+            },
+            "challenge_id": 80
+        },
+        {
+            "type": "correct",
+            "id": 3092,
+            "date": "2025-10-17T13:57:17.342282+00:00",
+            "team": {
+                "name": "TheNarwhals",
+                "id": 26
+            },
+            "user": {
+                "name": "vedard",
+                "id": 74
+            },
+            "challenge": {
+                "name": "13 - Big Brother is watching you",
+                "id": 81,
+                "category": "Learn The Alphabet (Lutzenfried)",
+                "value": 250
+            },
+            "challenge_id": 81
+        },
+        {
+            "type": "correct",
+            "id": 2978,
+            "date": "2025-10-17T12:23:43.525118+00:00",
+            "team": {
+                "name": "TheNarwhals",
+                "id": 26
+            },
+            "user": {
+                "name": "vedard",
+                "id": 74
+            },
+            "challenge": {
+                "name": "10 - Being implicit",
+                "id": 78,
+                "category": "Learn The Alphabet (Lutzenfried)",
+                "value": 250
+            },
+            "challenge_id": 78
+        },
+        {
+            "type": "correct",
+            "id": 2957,
+            "date": "2025-10-17T11:58:09.941897+00:00",
+            "team": {
+                "name": "TheNarwhals",
+                "id": 26
+            },
+            "user": {
+                "name": "vedard",
+                "id": 74
+            },
+            "challenge": {
+                "name": "09 - Keeping the secret",
+                "id": 77,
+                "category": "Learn The Alphabet (Lutzenfried)",
+                "value": 100
+            },
+            "challenge_id": 77
+        },
+        {
+            "type": "correct",
+            "id": 2955,
+            "date": "2025-10-17T11:45:32.170671+00:00",
+            "team": {
+                "name": "TheNarwhals",
+                "id": 26
+            },
+            "user": {
+                "name": "vedard",
+                "id": 74
+            },
+            "challenge": {
+                "name": "08 - Gcloud CLI Ninja of Pwn",
+                "id": 76,
+                "category": "Learn The Alphabet (Lutzenfried)",
+                "value": 200
+            },
+            "challenge_id": 76
+        },
+        {
+            "type": "correct",
+            "id": 2896,
+            "date": "2025-10-17T09:50:36.504250+00:00",
+            "team": {
+                "name": "TheNarwhals",
+                "id": 26
+            },
+            "user": {
+                "name": "vedard",
+                "id": 74
+            },
+            "challenge": {
+                "name": "07 - Run Run Run",
+                "id": 75,
+                "category": "Learn The Alphabet (Lutzenfried)",
+                "value": 150
+            },
+            "challenge_id": 75
+        },
+        {
+            "type": "correct",
+            "id": 2890,
+            "date": "2025-10-17T09:27:08.528572+00:00",
+            "team": {
+                "name": "TheNarwhals",
+                "id": 26
+            },
+            "user": {
+                "name": "vedard",
+                "id": 74
+            },
+            "challenge": {
+                "name": "06 - Initial Access",
+                "id": 74,
+                "category": "Learn The Alphabet (Lutzenfried)",
+                "value": 75
+            },
+            "challenge_id": 74
+        },
+        {
+            "type": "correct",
+            "id": 2851,
+            "date": "2025-10-17T08:40:30.241937+00:00",
+            "team": {
+                "name": "TheNarwhals",
+                "id": 26
+            },
+            "user": {
+                "name": "vedard",
+                "id": 74
+            },
+            "challenge": {
+                "name": "04 - Enumeration 2",
+                "id": 72,
+                "category": "Learn The Alphabet (Lutzenfried)",
+                "value": 75
+            },
+            "challenge_id": 72
+        },
+        {
+            "type": "correct",
+            "id": 2435,
+            "date": "2025-10-17T05:51:02.509597+00:00",
+            "team": {
+                "name": "TheNarwhals",
+                "id": 26
+            },
+            "user": {
+                "name": "vedard",
+                "id": 74
+            },
+            "challenge": {
+                "name": "02 - Wss up?",
+                "id": 34,
+                "category": "All the things she sent (muemmelmoehre)",
+                "value": 75
+            },
+            "challenge_id": 34
+        },
+        {
+            "type": "correct",
+            "id": 2417,
+            "date": "2025-10-17T05:43:59.133869+00:00",
+            "team": {
+                "name": "TheNarwhals",
+                "id": 26
+            },
+            "user": {
+                "name": "vedard",
+                "id": 74
+            },
+            "challenge": {
+                "name": "01 - Up and running",
+                "id": 33,
+                "category": "All the things she sent (muemmelmoehre)",
+                "value": 150
+            },
+            "challenge_id": 33
+        },
+        {
+            "type": "correct",
+            "id": 1790,
+            "date": "2025-10-17T03:25:18.530123+00:00",
+            "team": {
+                "name": "TheNarwhals",
+                "id": 26
+            },
+            "user": {
+                "name": "vedard",
+                "id": 74
+            },
+            "challenge": {
+                "name": "03 - Android Firewall",
+                "id": 63,
+                "category": "secure\u2019nt internals (brainmoustache)",
+                "value": 100
+            },
+            "challenge_id": 63
+        },
+        {
+            "type": "correct",
+            "id": 800,
+            "date": "2025-10-17T01:54:20.072597+00:00",
+            "team": {
+                "name": "TheNarwhals",
+                "id": 26
+            },
+            "user": {
+                "name": "vedard",
+                "id": 74
+            },
+            "challenge": {
+                "name": "02 - Shell Breach",
+                "id": 62,
+                "category": "secure\u2019nt internals (brainmoustache)",
+                "value": 100
+            },
+            "challenge_id": 62
+        },
+        {
+            "type": "correct",
+            "id": 709,
+            "date": "2025-10-17T01:35:45.725551+00:00",
+            "team": {
+                "name": "TheNarwhals",
+                "id": 26
+            },
+            "user": {
+                "name": "vedard",
+                "id": 74
+            },
+            "challenge": {
+                "name": "01 - Laughing Man Hack",
+                "id": 61,
+                "category": "secure\u2019nt internals (brainmoustache)",
+                "value": 100
+            },
+            "challenge_id": 61
+        },
+        {
+            "type": "correct",
+            "id": 34,
+            "date": "2025-10-16T23:40:00.577497+00:00",
+            "team": {
+                "name": "TheNarwhals",
+                "id": 26
+            },
+            "user": {
+                "name": "vedard",
+                "id": 74
+            },
+            "challenge": {
+                "name": "API_debug_console",
+                "id": 59,
+                "category": "EventFlow API Dashboard (Hawa)",
+                "value": 250
+            },
+            "challenge_id": 59
+        }
+    ],
+    "meta": {
+        "count": 19
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "success": true,
+    "data": {
+        "country": null,
+        "id": 26,
+        "affiliation": null,
+        "members": [
+            48,
+            52,
+            66,
+            74,
+            113,
+            215
+        ],
+        "website": null,
+        "oauth_id": null,
+        "name": "TheNarwhals",
+        "email": null,
+        "fields": [],
+        "bracket_id": null,
+        "captain_id": 66,
+        "place": "6th",
+        "score": 7097
+    }
+}
